@@ -150,8 +150,8 @@ int main()
 			
 			case 9:
 			printf("Encerrando o programa.\n\n");
-			printf("Nós agradecemos por utilizar este programa!\n\n");
-			exit(0);
+			printf("Nós agradecemos por utilizar este programa. Até a próxima!\n\n");
+			return 0;
 			break;
 		
 			default:
